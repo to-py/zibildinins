@@ -60,3 +60,7 @@ _italic_
 popis[^1]
 
 [^1]: source of u being popis
+
+ciao<sup>ooooo</sup>
+
+ciao<sub>ooooo</sub>
