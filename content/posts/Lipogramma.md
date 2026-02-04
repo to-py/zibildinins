@@ -33,12 +33,11 @@ In un attimo, il piccolo amico spruzza rivolto al gattino (ha tanta paura!!! “
 
 Tradito, il gattino si divincola, dà di matto: il suo muso ora puzza molto, ma brucia tanto di più!! Schizza via miagolando sconsolato, mortificato: ha imparato a non avvicinarsi ai più piccoli amici sconosciuti prima di dirgli “posso?”
 
-![Il fattaccio brutto brutto](zibildinins/images/elio_e_la_cimice.mp4?raw=true "Title")
+<video controls src="../../images/elio_e_la_cimice.mp4" title="Title"></video>
 
-![Elio Fabrizio ha imparato la lezione](zibildinins/images/Il_guercio_1.jpg?raw=true "Title")
+![alt text](../../images/Il_guercio_1.jpg)
 
-![Ihihihih](zibildinins/images/Il_guercio_2.jpg?raw=true "Title")
-
+![alt text](../../images/Il_guercio_2.jpg)
 
 
 [^1] Ovvia citazione a De André
