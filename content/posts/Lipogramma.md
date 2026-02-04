@@ -36,6 +36,7 @@ Tradito, il gattino si divincola, dà di matto: il suo muso ora puzza molto, ma 
 <video controls src="../../images/elio_e_la_cimice.mp4" title="Title"></video>
 
 ![alt text](../../images/Il_guercio_1.jpg)
+![alt text](/images/Il_guercio_1.jpg)
 
 ![alt text](../../images/Il_guercio_2.jpg)
 
